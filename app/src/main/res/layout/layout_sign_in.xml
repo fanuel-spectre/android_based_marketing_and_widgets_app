@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="16dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:padding="10dp">
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/phone_sign_in_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="16dp"
+            android:backgroundTint="@color/white"
+            android:text="Sign With Phone"
+            android:textColor="@color/black"
+            android:drawableStart="@drawable/ic_call"
+            android:drawableTint="@color/black"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/google_sign_in_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="16dp"
+            android:backgroundTint="@color/white"
+            android:text="Sign With Google"
+            android:textColor="@color/black"
+            android:drawableStart="@drawable/googlew" />
+
+    </LinearLayout>
+
+</RelativeLayout>

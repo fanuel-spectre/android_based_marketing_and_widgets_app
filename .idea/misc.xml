@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidproject/Lada/app/src/main/res/drawable/ic_account_circle.xml" value="0.2175925925925926" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/drawable/ic_list_bulleted.xml" value="0.2175925925925926" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/drawable/ic_more_vert.xml" value="0.2175925925925926" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/drawable/ic_perm_phone.xml" value="0.2175925925925926" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout-v26/fragment_home.xml" value="0.1398148148148148" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/activity_home_drivers.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/activity_lada_splash.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/activity_main_seller.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/activity_register_userii.xml" value="0.13796296296296295" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/activity_shop_details.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/app_bar_home_drivers.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/content_home_drivers.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/custom_single_image.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/layout_register_driver.xml" value="0.13796296296296295" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/nav_header_home_drivers.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/layout/viewholder_cat.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Lada/app/src/main/res/menu/activity_home_driver_drawer.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable-v24/edittext.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable-v24/grey_circular_border.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable-v24/image_result_background.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable-v24/papermint_button.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/btn_stroke.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/btn_stroke_bg.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/card_background.xml" value="0.21481481481481482" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/category_background1.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/discount_note_shape.xml" value="0.21" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/edit_stroke_bg.xml" value="0.21481481481481482" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/green_circular_border.xml" value="0.1111111111111111" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/ic_notifications.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/online_indicator_shape.xml" value="0.11203703703703703" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/papermint_button_box.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/red_rectangle_shape.xml" value="0.21" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/ripple_effect.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/shape_products.xml" value="0.11203703703703703" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/shape_shop.xml" value="0.11203703703703703" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/side_nav_bar.xml" value="0.25462962962962965" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/drawable/white_circular_border.xml" value="0.2890625" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_add_product.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_display_product.xml" value="0.33" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_doodle.xml" value="0.33" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_driver_home.xml" value="0.13796296296296295" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_driver_map.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_edit_product.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_home_drivers.xml" value="0.22" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_lada_splash.xml" value="0.1398148148148148" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_login.xml" value="0.21296296296296297" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_main2.xml" value="0.25885416666666666" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_main_seller.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_main_user.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_register_seller.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_register_user.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_seller_edit_profile.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_shop_details.xml" value="0.22" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_try.xml" value="0.33" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/activity_user_edit_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/app_bar_home_drivers.xml" value="0.13796296296296295" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/content_driver_home.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/content_home_drivers.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/custom_single_image.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/layout_register_driver.xml" value="0.22" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/layout_sign_in.xml" value="0.22" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/nav_header_driver_home.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/nav_header_home_drivers.xml" value="0.22" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/product_details_seller.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/product_recyclerview.xml" value="0.5" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/shop_recyclerview.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/uri_item.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/user_product_recyclerview.xml" value="0.25" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/layout/viewholder_cat.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/menu/activity_home_driver_drawer.xml" value="0.22" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/menu/activity_main_drawer.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/menu/home_driver.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/menu/home_drivers.xml" value="0.13796296296296295" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/menu/main.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidproject/Zenbil30/app/src/main/res/menu/menu_main.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

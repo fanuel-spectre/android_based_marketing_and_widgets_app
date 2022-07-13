@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.SampleActivity">
+
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_city"/>
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_below="@id/image1"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_add_box"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/selected_page"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+<meow.bottomnavigation.MeowBottomNavigation
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/bottom_navigation"
+
+
+    app:mbn_shadowColor="@color/black"
+    app:mbn_backgroundBottomColor="@color/purple_200"
+    app:mbn_circleColor="@color/white"
+    app:mbn_countBackgroundColor="@color/teal_200"
+    app:mbn_countTextColor="@color/black"
+    app:mbn_selectedIconColor="@color/teal_700"/>
+
+
+
+
+
+
+</RelativeLayout>

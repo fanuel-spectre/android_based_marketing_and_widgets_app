@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="2dp"
+    android:backgroundTint="@color/white"
+    app:cardElevation="5dp"
+    app:contentPadding="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.blogspot.atifsoftwares.circularimageview.CircularImageView
+            android:id="@+id/shop_pic"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="5dp"
+            android:src="@drawable/ic_city"
+            app:c_border="true"
+            app:c_border_width="1dp"
+            app:c_border_color="#686464"/>
+
+        <ImageView
+            android:id="@+id/online_status"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/online_indicator_shape"/>
+
+        <ImageView
+            android:id="@+id/next_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_next"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/shop_closed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/next_icon"
+            android:padding="5dp"
+            android:text="Closed"
+            android:background="@drawable/red_rectangle_shape"
+            android:textSize="11sp"
+            android:textColor="#F4511E"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_toEndOf="@id/shop_pic"
+            android:layout_toStartOf="@id/next_icon">
+
+            <TextView
+                android:id="@+id/shop_nameTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:maxLines="1"
+                android:text="Shop Name"
+                android:textColor="@color/black"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/phone_Tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Phone No"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/addressTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Shop Address"
+                android:textColor="@color/black"/>
+
+            <RatingBar
+                android:id="@+id/rating_bar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.RatingBar.Small"
+                android:numStars="5"
+
+                android:layout_gravity="end"
+                android:rating="3.6"/>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>
