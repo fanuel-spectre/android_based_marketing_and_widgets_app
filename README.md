@@ -1,0 +1,2 @@
+# android_based_marketing_and_widgets_app
+it's android native multi purpose application it includes lada a mobility as a service provider , zenbil a c to c marketing platform , near me which shows a route and displays a serviceproviding infrastructures arounf u using fused location provider client and google places and google direction, diner a food delivery platform , DM a direct messeging and finally Hire help
